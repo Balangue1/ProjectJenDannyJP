@@ -14,7 +14,7 @@ CocktailDB API  https://www.cocktaildb.com/api.php
 DeckOfCards API http://deckofcardsapi.com/
 
 GITHUB PAGE:
-https://balangue1.github.io/Train-Scheduler/
+https://balangue1.github.io/ProjectJenDannyJP/
 
 PREREQUISITES:
 Internet Browser
